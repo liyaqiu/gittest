@@ -8,5 +8,6 @@ public class Test1 {
     public static void main(String[] args) {
         System.out.println("什么都没");
         System.out.println("version2");
+        System.out.println("v2版本做了修复");
     }
 }
