@@ -19,5 +19,6 @@ public class Test1 {
         System.out.println("v3做了5次修复");
         System.out.println("v3做了6次修复");
         System.out.println("v4做了1次修复");
+        System.out.println("v4做了1次修复");
     }
 }
