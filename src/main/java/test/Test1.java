@@ -9,5 +9,6 @@ public class Test1 {
         System.out.println("什么都没");
         System.out.println("version2");
         System.out.println("v1做了修复");
+        System.out.println("v1做了二次修复");
     }
 }
